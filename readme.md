@@ -15,3 +15,5 @@
 11. Changing the thickness of a line 
 12. Selecting colors based on the JColorChooser dialog 
 13. Support for menu bar and menu
+14. Symmetry and Rotation of Objects
+15. Pixelate Objects
